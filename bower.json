@@ -1,9 +1,9 @@
 {
-  "name": "lesson2",
+  "name": "lesson4",
   "authors": [
     "thowell <tamara.howell@hotmail.com>"
   ],
-  "description": "demo app for lesson 2",
+  "description": "demo app for lesson 4",
   "main": "",
   "keywords": [
     "JavaScript"
@@ -16,7 +16,8 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "scripts/lib"
   ],
   "dependencies": {
     "jquery": "2.2.4",
